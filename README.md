@@ -242,7 +242,7 @@ jupyter notebook
 Open:
 
 ```text
-KBS_Ready_NLP_Sentiment_Analysis_Enhanced.ipynb
+Sentiment Analysis for Journal Paper.ipynb
 ```
 
 ## Data Setup
@@ -251,7 +251,7 @@ Place the downloaded dataset in the repository root:
 
 ```text
 repository/
-├── KBS_Ready_NLP_Sentiment_Analysis_Enhanced.ipynb
+├── Sentiment Analysis for Journal Paper.ipynb
 ├── README.md
 └── data.csv
 ```
@@ -553,7 +553,7 @@ Do not present development-mode outputs as final results.
 
 ```text
 repository/
-├── KBS_Ready_NLP_Sentiment_Analysis_Enhanced.ipynb
+├── Sentiment Analysis for Journal Paper.ipynb
 ├── README.md
 ├── LICENSE
 ├── CITATION.cff
