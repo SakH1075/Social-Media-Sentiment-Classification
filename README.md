@@ -11,7 +11,7 @@ The project evaluates lexicon-based methods, classical machine-learning models, 
 The implementation is provided as a single end-to-end notebook:
 
 ```text
-KBS_Ready_NLP_Sentiment_Analysis_Enhanced.ipynb
+Sentiment Analysis for Journal Paper.ipynb
 ```
 
 The notebook performs:
